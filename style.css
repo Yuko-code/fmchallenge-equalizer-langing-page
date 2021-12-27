@@ -16,13 +16,13 @@ box-sizing: border-box;
 font-family: 'IBM Plex Sans', sans-serif;
 color:var(--primary);
 background-color: var(--secondary);
-background-image: url(/starter-code/assets/bg-main-mobile.png);
+background-image: url(/assets/bg-main-mobile.png);
 background-repeat: no-repeat;
 background-size:auto;
 background-position: -20% -15%;
 }
 .logo, .footer-logo{
-    background-image: url(/starter-code/assets/logo.svg);
+    background-image: url(/assets/logo.svg);
     width:147px;
     height:33px;
     margin:40px 20px;
@@ -51,7 +51,7 @@ background-position: -20% -15%;
     top: 120px;
     width: 209px;
     height:430px;
-    background-image:  url(/starter-code/assets/illustration-app.png);
+    background-image:  url(/assets/illustration-app.png);
     background-repeat: no-repeat;
     background-size:contain;
     z-index:2;
@@ -62,7 +62,7 @@ background-position: -20% -15%;
     position:absolute;
     background-color: var(--primary);
     border-radius: 12px;
-    background-image: url(/starter-code/assets/bg-pattern-2.svg);
+    background-image: url(/assets/bg-pattern-2.svg);
     background-repeat: no-repeat;
     background-size: 280px;
     background-position: center top;
@@ -132,7 +132,7 @@ background-position: -20% -15%;
 
 @media screen and (min-width:767px){
     body{
-        background-image: url(/starter-code/assets/bg-pattern-1.svg),url(/starter-code/assets/bg-main-tablet.png);
+        background-image: url(/assets/bg-pattern-1.svg),url(/assets/bg-main-tablet.png);
         background-repeat: no-repeat, no-repeat;
         background-size:auto,auto;
         background-position:  110% -40px,-370px -250px;
@@ -190,7 +190,7 @@ background-position: -20% -15%;
 
 @media screen and (min-width:1440px){
     body{
-        background-image: url(/starter-code/assets/bg-pattern-1.svg),url(/starter-code/assets/bg-main-desktop.png);
+        background-image: url(/assets/bg-pattern-1.svg),url(/assets/bg-main-desktop.png);
         background-repeat: no-repeat, no-repeat;
         background-size:auto,auto;
         background-position:  100% -30px,-370px -250px;
