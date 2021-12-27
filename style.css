@@ -16,7 +16,7 @@ box-sizing: border-box;
 font-family: 'IBM Plex Sans', sans-serif;
 color:var(--primary);
 background-color: var(--secondary);
-background-image: url(/assets/bg-main-mobile.png);
+background-image: url(./assets/bg-main-mobile.png);
 background-repeat: no-repeat;
 background-size:auto;
 background-position: -20% -15%;
