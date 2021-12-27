@@ -8,6 +8,7 @@ This is a solution to the [Huddle landing page with single introductory section 
   - [The challenge](#the-challenge)
 - [My process](#my-process)
   - [Built with](#built-with)
+  - [Useful resources](#useful-resources)
 - [Author](#author)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -31,6 +32,11 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+
+### Useful resources
+
+- [Example resource 1](https://www.w3docs.com/snippets/css/how-to-position-one-image-on-top-of-another-in-html-css.html) - This helped me for to style the image on top of other images.
+- [Example resource 2](https://www.youtube.com/watch?v=VXW1r09Y6Tw&t=1807s) - This helped me to understand CSS grid.
 
 ## Author
 
