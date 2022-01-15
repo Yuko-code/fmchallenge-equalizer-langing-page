@@ -1,8 +1,9 @@
 # fmchallenge-equalizer-langing-page
+<img src="https://github.com/Yuko-code/Yuko-code/blob/main/equalizer.jpeg" width="900">
 This is my solution for Frontend mentor challenge 
 # Frontend Mentor - Equalizer landing page solution
 
-This is a solution to the [Huddle landing page with single introductory section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Equalizer landing page solution](https://www.frontendmentor.io/challenges/equalizer-landing-page-7VJ4gp3DE/hub/equalizer-landing-page-solution-pSvUwUwNl). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -37,8 +38,8 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://www.w3docs.com/snippets/css/how-to-position-one-image-on-top-of-another-in-html-css.html) - This helped me for to style the image on top of other images.
-- [Example resource 2](https://www.youtube.com/watch?v=VXW1r09Y6Tw&t=1807s) - This helped me to understand CSS grid.
+- [CSS position](https://www.w3docs.com/snippets/css/how-to-position-one-image-on-top-of-another-in-html-css.html) - This helped me for to style the image on top of other images.
+- [CSS grid](https://www.youtube.com/watch?v=VXW1r09Y6Tw&t=1807s) - This helped me to understand CSS grid.
 
 ## Author
 
